@@ -1,0 +1,31 @@
+{
+  "name": "mateclim",
+  "owner": {
+    "name": "MateClim Service",
+    "email": "matriz@mateclim.com",
+    "url": "https://mateclimservice.com"
+  },
+  "metadata": {
+    "description": "Plugins oficiales de MateClim Service para Claude."
+  },
+  "plugins": [
+    {
+      "name": "mateclim-service",
+      "source": "./plugins/mateclim-service",
+      "description": "Conecta Claude con tu cuenta de MateClim Service: resumen del día, agenda, folios, servicios, cotizaciones, materiales, reportes y cobranza, siempre con tu confirmación y según tu rol.",
+      "author": {
+        "name": "MateClim Service",
+        "email": "matriz@mateclim.com"
+      },
+      "homepage": "https://mateclimservice.com",
+      "category": "productivity",
+      "keywords": [
+        "mateclim",
+        "aire acondicionado",
+        "refrigeración",
+        "hvac",
+        "servicios"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+{
+  "name": "mateclim-service",
+  "displayName": "MateClim Service",
+  "version": "1.0.0",
+  "description": "Conecta Claude con tu cuenta de MateClim Service para consultar y registrar el trabajo de tu empresa de aire acondicionado y refrigeración: resumen del día, agenda, folios, servicios, cotizaciones, materiales, reportes y cobranza, siempre con tu confirmación y según tu rol.",
+  "author": { "name": "MateClim Service", "email": "matriz@mateclim.com", "url": "https://mateclimservice.com" },
+  "homepage": "https://mateclimservice.com",
+  "license": "UNLICENSED",
+  "keywords": ["mateclim", "aire acondicionado", "refrigeración", "hvac", "servicios", "cotizaciones", "técnicos"]
+}

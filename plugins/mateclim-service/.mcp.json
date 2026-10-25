@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "mateclim": {
+      "type": "http",
+      "url": "https://mateclim-mcp.mateclimservice.workers.dev/mcp"
+    }
+  }
+}
